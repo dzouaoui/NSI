@@ -1,17 +1,15 @@
-# Première NSI aux lycées Jean Rostand et Maxence Van der Meersch de Roubaix
+# Spécialité NSI aux lycées Jean Rostand et Maxence Van der Meersch de Roubaix
 
-Cet endroit est un _repository_ **github** où se trouvent toutes les ressources pédagogiques et toutes les informations utiles aux élèves du lycée et à leur famille.
+Informations utiles aux élèves du lycée et à leur famille...
 
-## Que contient ce _repository_ ?
-
-* Le **cahier de texte** pour connaître les activités faites en classe à chaque séance, le travail à faire à la maison et les évaluations prévues
+* Dans **informations_diverses** : Toutes les informations générales sur la spécialité NSI au lycée Jean Rostand. La lecture des documents s'y trouvant est recommandée en début d'année.
 
 
-* Dans **informations_diverses** : le programme publié au BO de la spécialité, toutes les informations générales et officielles sur la spécialité NSI et comment elle est enseignée au lycée. La lecture des documents s'y trouvant est recommandée en début d'année.
+* Dans **outils_et_environnement_informatiques** : Toutes les ressources, tutos et aides techniques pour utiliser tel ou tel logiciel utilisé en NSI
 
+* Dans **Programmes_de_la_specialite_NSI_publiés_au_BO** : Le détail officiel du programme de NSI en première et en terminale
 
-* Dans **outils_et_environnement_informatiques** : toutes les ressources, tutos et aides techniques pour utiliser tel ou tel logiciel utilisé en NSI
-
+## Programme de la spécialité en première
 
 * Le programme officiel de la spécialité est divisé en 8 parties appelées blocs :
   * bloc 0 - historique (non évalué au baccalauréat)
@@ -23,31 +21,25 @@ Cet endroit est un _repository_ **github** où se trouvent toutes les ressources
   * bloc 6 — Langages et programmation
   * bloc 7 — Algorithmique
 
+## Programme de la spécialité en terminale
 
-* Dans **bloc1 à bloc7** : toutes les ressources pédagogiques nécessaires aux élèves pour suivre la formation (cours, TP, exercices, projets)
+* Le programme officiel de la spécialité est divisé en 6 parties appelées blocs :
+  * bloc 0 - historique (non évalué au baccalauréat)
+  * bloc 1 — Structures de données
+  * bloc 2 — Base de données
+  * bloc 3 — Architectures matérielles, systèmes d'exploitation et réseaux
+  * bloc 4 — Langages et programmation
+  * bloc 5 — Algorithmique
 
+## Programme pour les épreuves terminales
 
-* Dans **Corriges** : des éléments de corrections des activités faites pendant l'année
+Les épreuves ayant lieu en mars, certaines parties du programmes de terminale ne peuvent pas "tomber" le jour du bac.   
 
-## Comment utiliser ce _repository_ ?
+Voici les attendus pour les épreuves écrites et pratiques de NSI en terminale :
 
-Vous pouvez accéder directements aux documents en cliquant sur les fichiers et dossiers figurant dans l'espace au dessus.
+* Tout le programme de première
+* Tout le programme de terminale sauf les parties mentionnées [sur le BO N°30 du 29 juillet 2021](https://www.education.gouv.fr/bo/21/Hebdo30/MENE2121274N.htm)
 
-Vous pouvez avoir une utilisation plus ergonomique de ce _repository_ en suivant les deux liens ci-dessous :
+## Pour me Contacter
 
-* **nbviewer** permet une lecture plus agréable (mais **non interactive**) des documents [cliquez ici](https://nbviewer.jupyter.org/github/seynave/premiere)
-
-
-* **binder** permet une utilisation **interactive** des notebook de ce cours  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seynave/premiere/master).  
-    > L'interactivité proposée par **Binder** permet de modifier les Notebook, les sauvegarder, de créer les vôtres, d'exécuter le code python. Tout cela sans rien installer sur votre machine. **Néanmoins, cela peut prendre quelques minutes à charger, surtout lors du premier lancement**...
-
-_Remarque : les documents récemment publiés peuvent parfois poser souci avec les outils **nbviewer** et **binder**. Mais, dans tous les cas, ils restent consultables ici_
-
-* Pour me contacter : r.seynave59[at]gmail.com
-
------------------------------
-
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-
-*Ne pas hésiter à me contacter pour tout problème de Licence et de droit (oubli etc...) pour que je corrige le problème.*
+* r.seynave59[at]gmail.com
