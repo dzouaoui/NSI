@@ -1,4 +1,4 @@
-# Spécialité NSI aux lycées Jean Rostand et Maxence Van der Meersch de Roubaix
+# Spécialité NSI aux lycées Baudelaire, Jean Rostand et Maxence Van der Meersch de Roubaix
 
 Informations utiles aux élèves du lycée et à leur famille...
 
